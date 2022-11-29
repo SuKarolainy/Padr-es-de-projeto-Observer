@@ -8,7 +8,7 @@ import java.io.File;
 
 /**
  *
- * @author ho.aecsky
+ * @author suKarolainy
  */
 public class LogOpenListener implements EventListener {
     private File registro;
