@@ -7,7 +7,7 @@ package com.mycompany.projetoobserver;
 import java.io.File;
 /**
  *
- * @author ho.aecsky
+ * @author suKarolainy
  */
 public class Editor {
     public EventManager events;
