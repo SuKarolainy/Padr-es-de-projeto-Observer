@@ -6,7 +6,7 @@ package com.mycompany.projetoobserver;
 
 /**
  *
- * @author ho.aecsky
+ * @author suKarolainy
  */
 public class Demo {
     public static void main(String[] args) {
