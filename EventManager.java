@@ -12,7 +12,7 @@ import java.util.Map;
 
 /**
  *
- * @author ho.aecsky
+ * @author suKarolainy
  */
 public class EventManager {
     Map<String, List<EventListener>> listeners = new HashMap<>();
