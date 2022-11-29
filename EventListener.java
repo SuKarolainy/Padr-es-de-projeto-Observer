@@ -8,7 +8,7 @@ import java.io.File;
 
 /**
  *
- * @author ho.aecsky
+ * @author suKarolainy
  */
 public interface EventListener {
     void update(String TipoEvento, File Arquivo);
