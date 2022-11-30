@@ -6,10 +6,10 @@ import java.io.File;
  *
  * @author suKarolainy
  */
-public class EmailNotificationListener implements EventListener {
+public class EmailNotificationListener implements EventListener { // EmailNotificationListener >> EmailAlertsListener
     private String email;
 
-    public EmailNotificationListener(String email) {
+    public EmailNotificationListener(String email) { // EmailNotificationListener >> EmailAlertsListener
         this.email = email;
     }
 
