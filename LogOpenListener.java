@@ -5,10 +5,10 @@ import java.io.File;
 /*
 * @author suKarolainy
 */
-public class LogOpenListener implements EventListener {
+public class LogOpenListener implements EventListener { // LogOpenListener >> LoggingListener
     private File registro;
 
-    public LogOpenListener(String fileName) {
+    public LogOpenListener(String fileName) { // LogOpenListener >> LoggingListener
         this.registro = new File(fileName);
     }
 
